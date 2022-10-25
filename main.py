@@ -1,4 +1,4 @@
-from game import Game
+from objects.game import Game
 from game_loop import game_loop
 
 

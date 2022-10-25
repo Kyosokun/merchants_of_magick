@@ -1,9 +1,9 @@
 from player import Player
 from order import OrderDeck
-from adventurers import AdventurerDeck
+from objects.adventurers import AdventurerDeck
 from mastery import material_deck, energy_deck
-from dice import DiceSet
-from deck import Deck
+from objects.dice import DiceSet
+from objects.deck import Deck
 
 
 class Game(object):

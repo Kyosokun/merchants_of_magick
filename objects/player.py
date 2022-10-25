@@ -1,5 +1,5 @@
-from accessories import accessory_collection
-from enchantments import enchantment_collection
+from objects.accessories import accessory_collection
+from objects.enchantments import enchantment_collection
 
 
 class Player:

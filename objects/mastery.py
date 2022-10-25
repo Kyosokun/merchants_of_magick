@@ -1,4 +1,4 @@
-from deck import Deck
+from objects.deck import Deck
 
 
 class Mastery:

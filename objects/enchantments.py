@@ -1,4 +1,4 @@
-from affixes import Affix, affix_collection
+from objects.affixes import Affix, affix_collection
 
 
 class Enchantment(Affix):
